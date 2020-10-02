@@ -180,7 +180,7 @@ footer a, footer a:link {
 
   <div class="wrapper">
   <form class="login" method="post" action="../../server/login.php">
-    <p class="title">Log in</p>
+    <p class="title">Log in to Picture Game</p>
     <input type="text" name="username" placeholder="Username" autofocus/>
     <i class="fa fa-user"></i>
     <input type="password" name="password" placeholder="Password" />
